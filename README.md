@@ -1,1 +1,2 @@
-#  a roguelike dungeon map generator.
+#  Roguelike Dungeon
+A roguelike dungeon map generator.
